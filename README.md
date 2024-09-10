@@ -11,5 +11,9 @@
 - Weight: The weight of the player.
 - Last Attended: The university or team the player previously represented.
 - Country: The country the player is from.
+  
+<img width="643" alt="Capture" src="https://github.com/user-attachments/assets/b0e0a0fe-e591-432d-b391-f697cd3d1a09">
+
+  
 
 
